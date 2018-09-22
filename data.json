@@ -1,65 +1,166 @@
 {
   "provinces" : [
     {
-      "name" : "Aragatsotn",
-      "capital" : "Ashtarak",
-      "cities": [
-        "Aparan",
-        "Ashtarak",
-        "Talin"
-      ]
+      "slug" : "aragatsotn",
+      "name" : {
+        "en" : "Aragatsotn",
+        "hy" : "Արագածոտն"
+      }
     },
     {
-      "name" : "Ararat",
-      "capital" : "Artashat"
+      "slug" : "ararat",
+      "name" : {
+        "en" : "Ararat",
+        "hy" : "Արարատ"
+      }
     },
     {
-      "name": "Armavir",
-      "capital": "Armavir"
+      "slug": "armavir",
+      "name" : {
+        "en" : "Armavir",
+        "hy" : "Արմավիր"
+      }
     },
     {
-      "name": "Gegharkunik",
-      "capital": "Gavar"
+      "slug": "gegharkunik",
+      "name" : {
+        "en" : "Gegharkunik",
+        "hy" : "Գեղարքունիք"
+      }
     },
     {
-      "name": "Kotayk",
-      "capital": "Hrazdan"
+      "slug": "kotayk",
+      "name" : {
+        "en" : "Kotayk",
+        "hy" : "Կոտայք"
+      }
     },
     {
-      "name": "Lori",
-      "capital": "Vanadzor"
+      "slug": "lori",
+      "name" : {
+        "en" : "Lori",
+        "hy" : "Լոռի"
+      }
     },
     {
-      "name": "Shirak",
-      "capital": "Gyumri"
+      "slug": "shirak",
+      "name" : {
+        "en" : "Shirak",
+        "hy" : "Շիրակ"
+      }
     },
     {
-      "name": "Syunik",
-      "capital": "Kapan"
+      "slug": "syunik",
+      "name" : {
+        "en" : "Syunik",
+        "hy" : "Սյունիք"
+      }
     },
     {
-      "name": "Tavush",
-      "capital": "Ijevan"
+      "slug": "tavush",
+      "name" : {
+        "en" : "Tavush",
+        "hy" : "Տավուշ"
+      }
     },
     {
-      "name": "Vayots Dzor",
-      "capital": "Yeghegnadzor"
+      "slug": "vayots_dzor",
+      "name" : {
+        "en" : "Vayots Dzor",
+        "hy" : "Վայոց  Ձոր"
+      }
     },
     {
-      "name" : "Yerevan",
+      "slug" : "yerevan",
+      "name" : {
+        "en" : "Yerevan",
+        "hy" : "Երևան"
+      },
       "districts": [
-        "Ajapnyak",
-        "Arabkir",
-        "Avan",
-        "Davtashen",
-        "Erebuni",
-        "Kanaker-Zeytun",
-        "Kentron",
-        "Malatia-Sebastia",
-        "Nork-Marash",
-        "Nor Nork",
-        "Nubarashen",
-        "Shengavit"
+        {
+          "slug": "ajapnyak",
+          "name" : {
+            "en" : "Ajapnyak",
+            "hy" : "Աջափնյակ"
+          }
+        },
+        {
+          "slug": "arabkir",
+          "name" : {
+            "en" : "Arabkir",
+            "hy" : "Արաբկիր"
+          }
+        },
+        {
+          "slug": "avan",
+          "name" : {
+            "en" : "Avan",
+            "hy" : "Ավան"
+          }
+        },
+        {
+          "slug": "davtashen",
+          "name" : {
+            "en" : "Davtashen",
+            "hy" : "Դավթաշեն"
+          }
+        },
+        {
+          "slug": "erebuni",
+          "name" : {
+            "en" : "Erebuni",
+            "hy" : "Էրեբունի"
+          }
+        },
+        {
+          "slug": "kanaker_zeytun",
+          "name" : {
+            "en" : "Kanaker-Zeytun",
+            "hy" : "Քանաքեռ-Զեյթուն"
+          }
+        },
+        {
+          "slug": "kentron",
+          "name" : {
+            "en" : "Kentron",
+            "hy" : "Կենտրոն"
+          }
+        },
+        {
+          "slug": "malatia_sebastia",
+          "name" : {
+            "en" : "Malatia-Sebastia",
+            "hy" : "Մալաթիա-Սեբաստիա"
+          }
+        },
+        {
+          "slug": "nork_marash",
+          "name" : {
+            "en" : "Nork-Marash",
+            "hy" : "Նորք-Մարաշ"
+          }
+        },
+        {
+          "slug": "Nor Nork",
+          "name" : {
+            "en" : "Nor Nork",
+            "hy" : "Նոր-Նորք"
+          }
+        },
+        {
+          "slug": "nubarashen",
+          "name" : {
+            "en" : "Nubarashen",
+            "hy" : "Նուբարաշեն"
+          }
+        },
+        {
+          "slug": "shengavit",
+          "name" : {
+            "en" : "Shengavit",
+            "hy" : "Նուբարաշեն"
+          }
+        }
       ]
     }
   ]

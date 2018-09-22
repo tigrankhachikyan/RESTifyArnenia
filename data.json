@@ -1,0 +1,66 @@
+{
+  "provinces" : [
+    {
+      "name" : "Aragatsotn",
+      "capital" : "Ashtarak",
+      "cities": [
+        "Aparan",
+        "Ashtarak",
+        "Talin"
+      ]
+    },
+    {
+      "name" : "Ararat",
+      "capital" : "Artashat"
+    },
+    {
+      "name": "Armavir",
+      "capital": "Armavir"
+    },
+    {
+      "name": "Gegharkunik",
+      "capital": "Gavar"
+    },
+    {
+      "name": "Kotayk",
+      "capital": "Hrazdan"
+    },
+    {
+      "name": "Lori",
+      "capital": "Vanadzor"
+    },
+    {
+      "name": "Shirak",
+      "capital": "Gyumri"
+    },
+    {
+      "name": "Syunik",
+      "capital": "Kapan"
+    },
+    {
+      "name": "Tavush",
+      "capital": "Ijevan"
+    },
+    {
+      "name": "Vayots Dzor",
+      "capital": "Yeghegnadzor"
+    },
+    {
+      "name" : "Yerevan",
+      "districts": [
+        "Ajapnyak",
+        "Arabkir",
+        "Avan",
+        "Davtashen",
+        "Erebuni",
+        "Kanaker-Zeytun",
+        "Kentron",
+        "Malatia-Sebastia",
+        "Nork-Marash",
+        "Nor Nork",
+        "Nubarashen",
+        "Shengavit"
+      ]
+    }
+  ]
+}

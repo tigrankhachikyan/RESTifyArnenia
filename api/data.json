@@ -1,0 +1,12 @@
+{
+  "provinces" : [
+    {
+      "name" : "Aragatsotn",
+      "capital" : "Ashtarak"
+    },
+    {
+      "name" : "Ararat",
+      "capital" : "Artashat"
+    }
+  ]
+}
